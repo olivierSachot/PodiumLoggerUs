@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Notes de version
+title: Changelog
 include_in_header: true
 ---
 
-# Notes de version
+# Changelog
 
 <br>
 
 ## Version 1.0
 
-Version initiale.
+Initial version
