@@ -66,7 +66,9 @@ features                                  :
     description                           : It is possible to export the list of competitions, the map as well as the statistics.
     fontawesome_icon_name                 : file-export
 
-
+  - title                                 : Note
+    description                           : The "Podium Logger" app is intended for sports based on distance to be covered (walking, running, trail running, cycling, etc.).
+    fontawesome_icon_name                 : sticky-note
 
 # Theme Settings
 topbar_color                              : "#000000"
