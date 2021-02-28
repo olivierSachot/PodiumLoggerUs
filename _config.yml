@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : /assets/appicon.png                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Podium Logger                             # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Enregistrez les classements et chronos de toutes vos compétitions et celles de vos amis. Gardez quelques photos souvenirs de vos podiums.
+app_description                           : Save the rankings and times of all your competitions and those of your friends. Keep some souvenir photos of your podiums.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,36 +34,36 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Enregistrez toutes vos compétitions
-    description                           : Enregistrez vos classements et vos chronos ainsi que ceux de vos amis.
+  - title                                 : Save all your competitions
+    description                           : Save your rankings and times as well as those of your friends.
     fontawesome_icon_name                 : running
     
-  - title                                 : Ajoutez des photos
-    description                           : Pour chaque compétition, ajoutez des photos souvenirs.
+  - title                                 : Add photos
+    description                           : For each competition, add souvenir photos.
     fontawesome_icon_name                 : images
 
-  - title                                 : Retrouvez facilement vos compétitions
-    description                           : Les compétitions peuvent être filtrées par sport et par personne. Elles peuvent être triées par date, nom, classement, vitesse et distance.
+  - title                                 : Easily find your competitions
+    description                           : Competitions can be filtered by sport and person. They can be sorted by date, name, rating, speed and distance.
     fontawesome_icon_name                 : sort
 
-  - title                                 : Partagez vos données avec vos amis.
-    description                           : Les données peuvent être partagées entre utilisateurs de "Podium Logger" simplement par e-mail.
+  - title                                 : Share your data with your friends.
+    description                           : Data can be shared between "Podium Logger" users simply by e-mail.
     fontawesome_icon_name                 : share
 
-  - title                                 : Carte
-    description                           : Les compétitions peuvent être visualisées sur une carte.
+  - title                                 : Map
+    description                           : Competitions can be viewed on a map.
     fontawesome_icon_name                 : map
   
-  - title                                 : Statistiques
-    description                           : Obtenez des statistiques sur vos compétitions (distance totale, meilleur classement, ...)
+  - title                                 : Statistics
+    description                           : Get statistics on your competitions (total distance, best ranking, ...).
     fontawesome_icon_name                 : table
     
-  - title                                 : Montres connectées
-    description                           : Les données enregistrées dans votre iPhone à l'aide de votre montre connectée peuvent être utilisées pour créer des compétitions.
+  - title                                 : Smartwatches
+    description                           : The data saved in your iPhone using your smartwatch can be used to create competitions.
     fontawesome_icon_name                 : heartbeat
 
-  - title                                 : Exportation
-    description                           : Il est possible d'exporter la liste des compétitions, la carte ainsi que les statistiques.
+  - title                                 : Export
+    description                           : It is possible to export the list of competitions, the map as well as the statistics.
     fontawesome_icon_name                 : file-export
 
 
