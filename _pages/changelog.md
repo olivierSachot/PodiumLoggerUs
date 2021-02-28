@@ -10,4 +10,4 @@ include_in_header: true
 
 ## Version 1.0
 
-Initial version
+Initial version.
